@@ -1,8 +1,8 @@
 # Assignment2
  
 * site url: https://sise-web-development-environments.github.io/assignment2-amit_alon/
-* 203169693 Alon Gutman
-* 313278889 Amit Shakarchy
+* Alon Gutman
+* Amit Shakarchy
 
 * This is a pacman game. Every user needs to Sign-Up (or sign-in) before playing.
 * User can choose number of monsters, number of candies, colors of the candies, and keys to play with.
